@@ -1,0 +1,21 @@
+{
+  "name": "nwhacks-2026-intro-to-web-development-code-starter",
+  "version": "1.0.0",
+  "description": "``` git clone https://github.com/jonathanycai/nwHacks-2026-Intro-to-Web-Development-Code-Starter.git ```",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanqiao59/nwHacks-2026-Intro-to-Web-Development-Code-Starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hanqiao59/nwHacks-2026-Intro-to-Web-Development-Code-Starter/issues"
+  },
+  "homepage": "https://github.com/hanqiao59/nwHacks-2026-Intro-to-Web-Development-Code-Starter#readme"
+}

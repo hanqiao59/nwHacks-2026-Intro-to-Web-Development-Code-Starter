@@ -1,8 +1,8 @@
-let name = "Nugget";
-console.log("Hello, " + name);
+let userName = "Nugget";
+console.log("Hello, " + userName);
 
-function say_hello() {
-  console.log("Hello, " + name);
+function say_hello(userName) {
+  console.log("Hello, " + userName);
 }
 say_hello("World");
 
